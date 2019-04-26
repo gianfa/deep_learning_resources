@@ -1,4 +1,4 @@
-# deep_learning_resources
+# Deep Learning Resources
 Links to useful deep learning resources
 
 ### Frameworks
