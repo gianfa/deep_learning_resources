@@ -11,4 +11,4 @@ Links to useful deep learning resources
 
 ### ML Project
 
-* [Weights initializing](https://www.amazon.it/Asics-Mexico-Sneakers-Ginnastica-Unisex-Adulto/dp/B00TOCZI2K/ref=cts_sh_1_vtp?th=1)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
+* [Weights initializing](http://www.deeplearning.ai/ai-notes/initialization/#utm_source=social&utm_medium=linkedin&utm_campaign=AINotesInitializationDiscussion1)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
