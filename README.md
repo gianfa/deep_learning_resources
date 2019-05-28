@@ -16,3 +16,12 @@ Links to useful deep learning resources
 
 ### To Understand
 * [GAN Lab, Understanding Deep Generative Models interactively](https://poloclub.github.io/ganlab/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
+
+### Cheatsheets
+* [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+* [DS in Python learning path, Analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
+* [Numpy, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+* [ScikitLearn, analyticsvidhya](https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf)
+* [EDA with Pandas, analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/)
+* [EDA in Python, Analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/)
+* [More cheatsheets (28), Analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
