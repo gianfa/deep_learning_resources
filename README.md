@@ -13,6 +13,7 @@ Links to useful deep learning resources
 
 * [Weights initializing](http://www.deeplearning.ai/ai-notes/initialization/#utm_source=social&utm_medium=linkedin&utm_campaign=AINotesInitializationDiscussion1)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [The Python graph Gallery, Data Visualization](https://python-graph-gallery.com/all-charts/)
+* [Seaborn Example Gallery, Data Visualization](https://seaborn.pydata.org/examples/index.html)
 
 ### To Understand
 * [GAN Lab, Understanding Deep Generative Models interactively](https://poloclub.github.io/ganlab/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
