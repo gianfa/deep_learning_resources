@@ -27,3 +27,7 @@ Links to useful deep learning resources
 * [EDA with Pandas, analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/)
 * [EDA in Python, Analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/)
 * [More cheatsheets (28), Analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
+
+
+### Data Science
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
