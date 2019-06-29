@@ -15,6 +15,9 @@ Links to useful deep learning resources
 * [The Python graph Gallery, Data Visualization](https://python-graph-gallery.com/all-charts/)
 * [Seaborn Example Gallery, Data Visualization](https://seaborn.pydata.org/examples/index.html)
 
+### Models
+* [GAN arhitectures in Keras](https://github.com/eriklindernoren/Keras-GAN)
+
 ### To Understand
 * [GAN Lab, Understanding Deep Generative Models interactively](https://poloclub.github.io/ganlab/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [TF Projector](https://projector.tensorflow.org/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
