@@ -26,6 +26,7 @@ Links to useful deep learning resources
 * [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
 * [DS in Python learning path, Analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Numpy, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+* [ScikitLearn, Datacamp](https://datacamp-community-prod.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116)
 * [ScikitLearn, analyticsvidhya](https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf)
 * [EDA with Pandas, analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/)
 * [EDA in Python, Analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/)
