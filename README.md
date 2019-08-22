@@ -22,6 +22,7 @@ Links to useful deep learning resources
 ### To Understand
 * [GAN Lab, Understanding Deep Generative Models interactively](https://poloclub.github.io/ganlab/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [TF Projector](https://projector.tensorflow.org/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
+* [MIT OpenCourseware](https://ocw.mit.edu/courses/?fbclid=IwAR2RAv1QjpnoQgkZjFLPgu8BCGK0ZsuEWaB76YQz53_eH_IPiYj1s1As5gA) Plenty of free academic resources from MIT.
 
 ### Cheatsheets
 * [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
