@@ -21,7 +21,7 @@ Links to useful deep learning resources
 
 ### To Understand
 * [GAN Lab, Understanding Deep Generative Models interactively](https://poloclub.github.io/ganlab/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
-* [Parameter optimization in neural network, DeepLearning.ai](https://www.deeplearning.ai/ai-notes/optimization/?utm_source=social&utm_medium=linkedin&utm_campaign=BlogAINotesOptimizationAugust272019)
+* [Parameter optimization in neural network, DeepLearning.ai](https://www.deeplearning.ai/ai-notes/optimization/?utm_source=social&utm_medium=linkedin&utm_campaign=BlogAINotesOptimizationAugust272019)[interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [TF Projector](https://projector.tensorflow.org/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [MIT OpenCourseware](https://ocw.mit.edu/courses/?fbclid=IwAR2RAv1QjpnoQgkZjFLPgu8BCGK0ZsuEWaB76YQz53_eH_IPiYj1s1As5gA) Plenty of free academic resources from MIT.
 
