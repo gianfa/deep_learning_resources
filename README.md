@@ -42,5 +42,6 @@ Links to useful deep learning resources
 ### Data Science
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-### Datasets
+### Data sets
  [Elite Datascience, DSets for DS and ML](https://elitedatascience.com/datasets)
+ [Data sets, Preflib](http://www.preflib.org/data/)
