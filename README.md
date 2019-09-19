@@ -30,6 +30,7 @@ Links to useful deep learning resources
 
 ### Cheatsheets
 * [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+* [ML cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [DS in Python learning path, Analyticsvidhya](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Numpy, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 * [ScikitLearn, Datacamp](https://datacamp-community-prod.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116)
