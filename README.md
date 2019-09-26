@@ -16,6 +16,7 @@ Links to useful deep learning resources
 ![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [The Python graph Gallery, Data Visualization](https://python-graph-gallery.com/all-charts/)
 * [Seaborn Example Gallery, Data Visualization](https://seaborn.pydata.org/examples/index.html)
+* [Iintializing Neural Networks, deeplearning.ai](http://www.deeplearning.ai/ai-notes/initialization/)
 
 ### Models
 * [GAN arhitectures in Keras](https://github.com/eriklindernoren/Keras-GAN)
