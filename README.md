@@ -42,9 +42,6 @@ Links to useful deep learning resources
 * [Deep Learning Cheatsheets, Stanford University](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 
 
-### Data Science
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
 ### Data sets
  * [Elite Datascience, DSets for DS and ML](https://elitedatascience.com/datasets)
  * [Data sets, Preflib](http://www.preflib.org/data/)
@@ -54,3 +51,6 @@ Links to useful deep learning resources
 ### Theory
 * [Deep Learning; I.Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
 * [Pattern Recognition and Machine Learning; C.Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
+### Practice
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
