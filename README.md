@@ -57,3 +57,7 @@ Links to useful deep learning resources
 
 ### Practice
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+
+### Python
+* [Python books](https://pythonbooks.org/), web site with links to free Phython books.
