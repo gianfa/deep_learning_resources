@@ -21,7 +21,7 @@ Links to useful deep learning resources
 * [GAN arhitectures in Keras](https://github.com/eriklindernoren/Keras-GAN)
 
 ### To Understand
-* [Explained.ai, a bunch of papers very enlightening](https://explained.ai/
+* [Explained.ai, a bunch of papers very enlightening](https://explained.ai/)
 * [GAN Lab, Understanding Deep Generative Models interactively](https://poloclub.github.io/ganlab/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [Parameter optimization in neural network, DeepLearning.ai](https://www.deeplearning.ai/ai-notes/optimization/?utm_source=social&utm_medium=linkedin&utm_campaign=BlogAINotesOptimizationAugust272019)
 ![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
