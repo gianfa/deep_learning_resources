@@ -50,15 +50,18 @@ Links to useful deep learning resources
 ### Testing
 * [Testing Tools Taxonomy](https://wiki.python.org/moin/PythonTestingToolsTaxonomy)
 
+
 ## Books
 
 ### Theory
 * [Deep Learning; I.Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
 * [Pattern Recognition and Machine Learning; C.Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
-### Practice
+### Development and SoftEng
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
+* [Problem Solving with Algorithms and
+Data Structures, Miller,Ranum](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
+* [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 
 ### Python
 * [Python books](https://pythonbooks.org/), web site with links to free Phython books.
