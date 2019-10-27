@@ -45,6 +45,7 @@ Links to useful deep learning resources
 * [DEV, pytest cheatsheet](https://gist.github.com/kwmiebach/3fd49612ef7a52b5ce3a)
 
 ### Data sets
+ * [Datasetlist](https://www.datasetlist.com/)
  * [Elite Datascience, DSets for DS and ML](https://elitedatascience.com/datasets)
  * [Data sets, Preflib](http://www.preflib.org/data/)
 
