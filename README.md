@@ -66,6 +66,7 @@ Links to useful deep learning resources
 * [Problem Solving with Algorithms and
 Data Structures, Miller,Ranum](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
 * [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
+* [Python Tips](https://book.pythontips.com/en/latest/index.html)
 
 ### Python
 * [Python books](https://pythonbooks.org/), web site with links to free Phython books.
