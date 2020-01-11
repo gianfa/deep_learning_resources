@@ -21,6 +21,9 @@ Links to useful deep learning resources
 ### Models
 * [GAN arhitectures in Keras](https://github.com/eriklindernoren/Keras-GAN)
 
+### Papers
+* [Deep Learning Papers Reading Roadmap, by floodsung, github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
 ### To Understand
 * [Explained.ai, a bunch of papers very enlightening](https://explained.ai/)
 * [GAN Lab, Understanding Deep Generative Models interactively](https://poloclub.github.io/ganlab/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
