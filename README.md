@@ -52,6 +52,7 @@ Links to useful deep learning resources
  * [Datasetlist](https://www.datasetlist.com/)
  * [Elite Datascience, DSets for DS and ML](https://elitedatascience.com/datasets)
  * [Data sets, Preflib](http://www.preflib.org/data/)
+ * [Generatedata.com](https://www.generatedata.com/)
 
 ### Testing
 * [Testing Tools Taxonomy](https://wiki.python.org/moin/PythonTestingToolsTaxonomy)
