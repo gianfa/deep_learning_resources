@@ -54,6 +54,7 @@ Links to useful deep learning resources
  * [Data sets, Preflib](http://www.preflib.org/data/)
  * [Generatedata.com](https://www.generatedata.com/)
  * [Google Public Data sets](https://cloud.google.com/public-datasets/)
+ * [Data Packaged Core Datasets](https://github.com/datasets)
 
 ### Testing
 * [Testing Tools Taxonomy](https://wiki.python.org/moin/PythonTestingToolsTaxonomy)
