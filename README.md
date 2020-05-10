@@ -34,6 +34,7 @@ Links to useful deep learning resources
 * [from Data to Viz](https://www.data-to-viz.com/#explore)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [Intializing Neural Networks, deeplearning.ai](http://www.deeplearning.ai/ai-notes/initialization/) ![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [Setosa.io, Explained Visually, Image Kernels](http://setosa.io/ev/image-kernels/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
+* [Optimizing gradient descent, ruder.io](https://ruder.io/optimizing-gradient-descent/), Gradient descent overview
 
 ### Cheatsheets
 * [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
