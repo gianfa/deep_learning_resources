@@ -77,7 +77,7 @@ Data Structures, Miller,Ranum](https://www.cs.auckland.ac.nz/compsci105s1c/resou
 * [Python Tips](https://book.pythontips.com/en/latest/index.html)
 
 ### Python
-* [Python books](https://pythonbooks.org/), web site with links to free Phython books.
+* [Python books](https://pythonbooks.org/), web site with links to free Python books.
 
 ## Hubs
 Here are some places where you can find interesting collections about a lot of useful stuff
