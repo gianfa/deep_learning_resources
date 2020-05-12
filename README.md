@@ -57,6 +57,7 @@ Links to useful deep learning resources
  * [Google Public Data sets](https://cloud.google.com/public-datasets/)
  * [Data Packaged Core Datasets](https://github.com/datasets)
  * [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+ * [CVOnline, Edinburgh School of Informatics](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm), very good index
 
 ### Testing
 * [Testing Tools Taxonomy](https://wiki.python.org/moin/PythonTestingToolsTaxonomy)
