@@ -48,7 +48,7 @@ Links to useful deep learning resources
 * [More cheatsheets (28), Analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 * [Deep Learning Cheatsheets, Stanford University](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 * [DEV, pytest cheatsheet](https://gist.github.com/kwmiebach/3fd49612ef7a52b5ce3a)
-* [What should I do when my neural network doesn't learn?, Statsexchange](https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn), very useful summary of typical critical points in DL experiments setup
+* [What should I do when my neural network doesn't learn?, StatsExchange](https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn), very useful summary of typical critical points in DL experiments setup
 * [Debugging Neural Networks, Stackoverflow](https://stackoverflow.com/questions/41488279/neural-network-always-predicts-the-same-class)
 * [How to initialize weights in Pytorch, Stackoverflow](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch), Weights initializations comparison
 
