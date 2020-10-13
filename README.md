@@ -36,6 +36,13 @@ Links to useful deep learning resources
 * [Setosa.io, Explained Visually, Image Kernels](http://setosa.io/ev/image-kernels/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [Optimizing gradient descent, ruder.io](https://ruder.io/optimizing-gradient-descent/), Gradient descent overview
 
+### Courses
+* [Deep Learning Specialization, deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
+* [Practical Deep Learning for Coders, fast.ai](https://course.fast.ai/)
+* [Deep Learning, DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
+* [Deep Learning, Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+* [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+
 ### Cheatsheets
 * [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
 * [ML cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
