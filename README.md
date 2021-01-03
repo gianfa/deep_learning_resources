@@ -18,6 +18,10 @@ Links to useful deep learning resources
 * [Seaborn Example Gallery, Data Visualization](https://seaborn.pydata.org/examples/index.html)
 * [Tensorboard.dev](https://tensorboard.dev/)![service](https://img.shields.io/badge/-service-yellowgreen.svg?style=popout&logo)
 
+### Visualization
+
+* [TensorspaceJS](https://github.com/tensorspace-team/tensorspace)
+
 ### Models
 * [GAN arhitectures in Keras](https://github.com/eriklindernoren/Keras-GAN)
 
