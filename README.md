@@ -46,6 +46,8 @@ Links to useful deep learning resources
 * [Deep Learning, DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
 * [Deep Learning, Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 * [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+* [Full Stack Deep Learning, UC Berkeley Instructors](https://fullstackdeeplearning.com/)
+* [Deep Learning, Yann LeCun & Alfredo Canziani, NYU Center for Data SCience](https://atcold.github.io/pytorch-Deep-Learning/)
 
 ### Cheatsheets
 * [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
