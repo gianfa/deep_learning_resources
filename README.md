@@ -28,6 +28,11 @@ Links to useful deep learning resources
 
 ### Papers
 * [Deep Learning Papers Reading Roadmap, by floodsung, github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [Neocognitron: A Self-organizing Neural Network Model
+for a Mechanism of Pattern Recognition
+Unaffected by Shift in Position, Fukushima, 1980](https://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf), first CNN paper
+* [Deep Residual Learning for Image Recognition, He K., 2015](https://arxiv.org/pdf/1512.03385.pdf), resnet block
+
 
 ### To Understand
 * [Explained.ai, a bunch of papers very enlightening](https://explained.ai/)
