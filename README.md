@@ -11,6 +11,7 @@ Links to useful deep learning resources
 
 ### ML Project
 
+* [Rules of Machine Learning, Zinkevich M.](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas/src/master/)
 * [Weights initializing](http://www.deeplearning.ai/ai-notes/initialization/#utm_source=social&utm_medium=linkedin&utm_campaign=AINotesInitializationDiscussion1)
 ![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
