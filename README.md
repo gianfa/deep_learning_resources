@@ -45,6 +45,7 @@ Unaffected by Shift in Position, Fukushima, 1980](https://www.cs.princeton.edu/c
 * [Intializing Neural Networks, deeplearning.ai](http://www.deeplearning.ai/ai-notes/initialization/) ![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [Setosa.io, Explained Visually, Image Kernels](http://setosa.io/ev/image-kernels/)![interactive](https://img.shields.io/badge/-interactive-blue.svg?style=popout&logo)
 * [Optimizing gradient descent, ruder.io](https://ruder.io/optimizing-gradient-descent/), Gradient descent overview
+* [Transformers in Vision](https://iaml-it.github.io/posts/2021-04-28-transformers-in-vision/)
 
 ### Courses
 * [Deep Learning Specialization, deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
