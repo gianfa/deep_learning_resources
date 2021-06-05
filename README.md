@@ -73,6 +73,7 @@ Unaffected by Shift in Position, Fukushima, 1980](https://www.cs.princeton.edu/c
 * [How to initialize weights in Pytorch, Stackoverflow](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch), Weights initializations comparison
 
 ### Data sets
+ * [AWS Open Data Registry](https://registry.opendata.aws/)
  * [Datasetlist](https://www.datasetlist.com/)
  * [Elite Datascience, DSets for DS and ML](https://elitedatascience.com/datasets)
  * [Data sets, Preflib](http://www.preflib.org/data/)
