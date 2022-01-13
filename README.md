@@ -55,6 +55,7 @@ Unaffected by Shift in Position, Fukushima, 1980](https://www.cs.princeton.edu/c
 * [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Full Stack Deep Learning, UC Berkeley Instructors](https://fullstackdeeplearning.com/)
 * [Deep Learning, Yann LeCun & Alfredo Canziani, NYU Center for Data SCience](https://atcold.github.io/pytorch-Deep-Learning/)
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/), a curated gigantic list of deep learning related courses.
 
 ### Cheatsheets
 * [Python for DataScience, DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
